@@ -1,5 +1,4 @@
 ## Treehouse
 
-This repo is for all my course files completed through teamtreehouse.com
 
-Checkout my Treehouse profile - https://teamtreehouse.com/nathanpickard
+Also checkout my Treehouse profile [here](https://teamtreehouse.com/nathanpickard).
